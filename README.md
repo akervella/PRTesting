@@ -1,2 +1,2 @@
 # PRTesting
-Project for tesing Pull Request
+Project for testing Pull Request
